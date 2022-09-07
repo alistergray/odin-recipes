@@ -1,0 +1,1 @@
+Project to build a recipe site to put into practice basis HTML skills, as well as practicing bash terminal use and git commits.
