@@ -1,0 +1,19 @@
+h1{
+    font-weight: bold;
+    color:brown;
+    font-style: oblique;
+}
+
+.mainmenu{
+    color: green;
+}
+
+.recipedish{
+    align: center;
+    width:300px;
+    border-style:double;
+}
+
+ul{
+    color:blue;
+}
